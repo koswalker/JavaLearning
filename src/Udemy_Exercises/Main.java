@@ -26,7 +26,7 @@ public class Main {
         System.out.println (ob.isLeapYear(2017));
         System.out.println (ob.isLeapYear(2000));
         for(int i=0; i<years_1.length; i++) System.out.println(ob.isLeapYear(years_1[i]));
-        for(int i=0; i<years_1.length; i++) System.out.println(ob.isLeapYear(years_2[i]));
+        for(int i=0; i<years_2.length; i++) System.out.println(ob.isLeapYear(years_2[i]));
     }
 
 }
